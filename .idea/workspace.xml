@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ab4bd78-8752-4974-b0bc-0a5989265a26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/api/mockPhones.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/conteiners/layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/conteiners/layout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/conteiners/phones/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/conteiners/phones/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +79,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576783201221</updated>
-      <workItem from="1576783204888" duration="5682000" />
+      <workItem from="1576783204888" duration="6662000" />
+      <workItem from="1576835173128" duration="168000" />
+      <workItem from="1576835368544" duration="2335000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature add containers: [phones,layout] and reducers [ref:no-ref]">
+      <created>1576791543863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576791543863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature add containers: [phones,layout] and reducers [ref:no-ref]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature add containers: [phones,layout] and reducers [ref:no-ref]" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1576791214120">
+    <state x="505" y="182" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576835215272">
       <screen x="0" y="23" width="1633" height="1027" />
     </state>
-    <state x="400" y="23" key="CommitChangelistDialog2/0.23.1633.1027@0.23.1633.1027" timestamp="1576791214120" />
+    <state x="505" y="182" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1633.1027@0.23.1633.1027" timestamp="1576835215272" />
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1576791543729">
+      <screen x="0" y="23" width="1633" height="1027" />
+    </state>
+    <state x="400" y="23" key="CommitChangelistDialog2/0.23.1633.1027@0.23.1633.1027" timestamp="1576791543729" />
     <state x="405" y="227" key="IDE.errors.dialog" timestamp="1576791088347">
       <screen x="0" y="23" width="1633" height="1027" />
     </state>
     <state x="405" y="227" key="IDE.errors.dialog/0.23.1633.1027@0.23.1633.1027" timestamp="1576791088347" />
+    <state x="417" y="179" key="Vcs.Push.Dialog.v2" timestamp="1576835632659">
+      <screen x="0" y="23" width="1633" height="1027" />
+    </state>
+    <state x="417" y="179" key="Vcs.Push.Dialog.v2/0.23.1633.1027@0.23.1633.1027" timestamp="1576835632659" />
   </component>
 </project>
