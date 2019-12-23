@@ -10,7 +10,8 @@ import {routerMiddleware, ConnectedRouter} from "connected-react-router";
 import {Provider} from 'react-redux';
 
 import createRootReducer from 'reducers';
-import Layout from 'conteiners/layout';
+import routes from "routes";
+
 
 
 
@@ -25,7 +26,7 @@ const store = createStore(
 ReactDOM.render(
     <Provider store={store}>
         <ConnectedRouter history={history}>
-            <Layout />
+            {routes}
         </ConnectedRouter>
     </Provider>,
   document.getElementById('root')

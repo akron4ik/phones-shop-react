@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ab4bd78-8752-4974-b0bc-0a5989265a26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/node_modules/selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/api/mockCategories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/components/basketCart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/components/categories/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/components/search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/conteiners/basket/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/conteiners/phone/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/phonePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/actions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/conteiners/layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/conteiners/layout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/conteiners/phones/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/conteiners/phones/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/phones.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/reducers/phones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/phonesPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/reducers/phonesPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/selectors.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +97,7 @@
       <workItem from="1576783204888" duration="6662000" />
       <workItem from="1576835173128" duration="168000" />
       <workItem from="1576835368544" duration="8107000" />
-      <workItem from="1576945571179" duration="1572000" />
+      <workItem from="1576945571179" duration="28246000" />
     </task>
     <task id="LOCAL-00001" summary="Feature add containers: [phones,layout] and reducers [ref:no-ref]">
       <created>1576791543863</created>
@@ -124,5 +143,10 @@
     </state>
     <state x="417" y="179" key="Vcs.Push.Dialog.v2/0.23.1633.1027@0.23.1633.1027" timestamp="1576835632659" />
     <state x="418" y="179" key="Vcs.Push.Dialog.v2/0.23.1635.1027@0.23.1635.1027" timestamp="1576872374504" />
+    <state x="481" y="171" width="670" height="676" key="search.everywhere.popup" timestamp="1577123854687">
+      <screen x="0" y="23" width="1633" height="1027" />
+    </state>
+    <state x="481" y="171" width="670" height="676" key="search.everywhere.popup/0.23.1633.1027@0.23.1633.1027" timestamp="1577123854687" />
+    <state x="482" y="171" width="670" height="676" key="search.everywhere.popup/0.23.1635.1027@0.23.1635.1027" timestamp="1576947251398" />
   </component>
 </project>
